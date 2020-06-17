@@ -12,7 +12,7 @@
 
 ## ✦ Projeto
 <p align="justify">
-O trabalho prático teve como objetivo projetar e implementar um algoritmo, na linguagem C, que tem como ideia de funcionamento o **backtracking** para o contexto de um labirinto. A tabela abaixo representa um mapa, onde cada célula representa um quadrado. Temos neste espaço um cachorro, cuja posição inicial está representada por um quadrado verde. O cachorro deverá caminhar pelos vários quadrados até chegar em uma das células da primeira linha da tabela. Os quadrados azuis representam paredes, pelas quais o cachorro obviamente não pode passar. O cachorro só pode se movimentar para cima, para baixo e para os lados. Ou seja, não pode se movimentar nas diagonais.
+O trabalho prático teve como objetivo projetar e implementar um algoritmo, na linguagem C, que tem como ideia de funcionamento o <b>backtracking</b> para o contexto de um labirinto. A tabela abaixo representa um mapa, onde cada célula representa um quadrado. Temos neste espaço um cachorro, cuja posição inicial está representada por um quadrado verde. O cachorro deverá caminhar pelos vários quadrados até chegar em uma das células da primeira linha da tabela. Os quadrados azuis representam paredes, pelas quais o cachorro obviamente não pode passar. O cachorro só pode se movimentar para cima, para baixo e para os lados. Ou seja, não pode se movimentar nas diagonais.
 </p>
 
 <p align="center">
