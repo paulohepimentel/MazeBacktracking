@@ -31,7 +31,7 @@ O mapa é a entrada para o programa, a partir de um arquivo texto. O arquivo tem
 
 ## ✦ Saída de dados
 <p align="justify">
-O programa imprime a resposta na tela. Cada posição ocupada pelo cachorro é ser impressa em uma linha da saída. Ao final da execução e da impressão de todas as células pelas quais o cachorro passou, é impresso a quantidade total de movimentos feitos e em qual coluna da primeira linha o cachorro chegou. Além disso o labirinto em questão pode não ter saída! Nesse caso o cachorro pára na célula em que estiver quando perceber que não há saída e o resultado (labirinto sem saída) é impresso pelo programa.
+O programa imprime a resposta na tela. Cada posição ocupada pelo cachorro é impressa em uma linha da saída. Ao final da execução e da impressão de todas as células pelas quais o cachorro passou, é impresso a quantidade total de movimentos feitos e em qual coluna da primeira linha o cachorro chegou. Além disso o labirinto em questão pode não ter saída! Nesse caso o cachorro pára na célula em que estiver quando perceber que não há saída e o resultado (labirinto sem saída) é impresso pelo programa.
 </p>
 
 ---
