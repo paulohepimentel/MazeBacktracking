@@ -16,7 +16,7 @@ O trabalho prático teve como objetivo projetar e implementar um algoritmo, na l
 </p>
 
 <p align="center">
-    <img alt="Mapa" title="Labirinto" src="images/Mapa.png" width="100%"/>
+    <img alt="Mapa" title="Labirinto" src="images/Mapa.png" width="50%"/>
 </p>
 
 ## ✦ Entrada de dados
